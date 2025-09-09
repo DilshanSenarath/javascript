@@ -1,0 +1,6 @@
+dist
+coverage
+*.log
+*.tgz
+node_modules
+**/node_modules/**
